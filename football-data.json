@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Kylian Mbappe",
+    "photo": "IMAGES/Mbappe.jpg",
+    "alt": "Mbappe"
+  },
+  {
+    "name": "Erling Haaland",
+    "photo": "IMAGES/Haaland.jpg",
+    "alt": "Haaland"
+  },
+  {
+    "name": "Vinicius jr",
+    "photo": "IMAGES/Vinicius.jpg",
+    "alt": "Vinicius"
+  },
+  {
+    "name": "Jude Bellingham",
+    "photo": "IMAGES/Bellingham.jpg",
+    "alt": "Bellingham"
+  },
+  {
+    "name": "Bukayo Saka",
+    "photo": "IMAGES/Saka.jpg",
+    "alt": "Saka"
+  },
+  {
+    "name": "Victor Osimhen",
+    "photo": "IMAGES/Osimhen.jpg",
+    "alt": "Osimhen"
+  },
+  {
+    "name": "Jamal Musiala",
+    "photo": "IMAGES/Musiala.jpg",
+    "alt": "Musiala"
+  },
+  {
+    "name": "Phil Foden",
+    "photo": "IMAGES/Foden.jpg",
+    "alt": "Foden"
+  },
+  {
+    "name": "Pedri",
+    "photo": "IMAGES/Pedri.jpg",
+    "alt": "Pedri"
+  },
+  {
+    "name": "Rodrygo",
+    "photo": "IMAGES/Rodrygo.jpg",
+    "alt": "Rodrygo"
+  },
+  {
+    "name": "Federico Valverde",
+    "photo": "IMAGES/Valverde.jpg",
+    "alt": "Valverde"
+  },
+  {
+    "name": "Gavi",
+    "photo": "IMAGES/Gavi.jpg",
+    "alt": "Gavi"
+  },
+  {
+    "name": "Rice",
+    "photo": "IMAGES/Rice.jpg",
+    "alt": "Declan Rice"
+  },
+  {
+    "name": "Rodri",
+    "photo": "IMAGES/Rodri.jpg",
+    "alt": "Rodri"
+  },
+  {
+    "name": "Rafael Leao",
+    "photo": "IMAGES/Leao.jpg",
+    "alt": "Leao"
+  },
+  {
+    "name": "Martin Odegaard",
+    "photo": "IMAGES/Odegaard.jpg",
+    "alt": "Odegaard"
+  },
+  {
+    "name": "Harry Kane",
+    "photo": "IMAGES/Kane.jpg",
+    "alt": "Kane"
+  },
+  {
+    "name": "Eduardo Camavinga",
+    "photo": "IMAGES/Camavinga.jpg",
+    "alt": "Camavinga"
+  },
+  {
+    "name": "Florian Wirtz",
+    "photo": "IMAGES/Wirtz.jpg",
+    "alt": "Wirtz"
+  },
+  {
+    "name": "Khvicha Kvaratskhelia",
+    "photo": "IMAGES/Kvaratskhelia.jpg",
+    "alt": "Kvaratskhelia"
+  },
+  {
+    "name": "Aurelien Tchouameni",
+    "photo": "IMAGES/Tchouameni.jpg",
+    "alt": "Tchouameni"
+  },
+  {
+    "name": "Lautaro Martinez",
+    "photo": "IMAGES/Lautaro.jpg",
+    "alt": "Lautaro"
+  },
+  {
+    "name": "Gabriel Martinelli",
+    "photo": "IMAGES/Martinelli.jpg",
+    "alt": "Martinelli"
+  },
+  {
+    "name": "Enzo fernandez",
+    "photo": "IMAGES/Enzo.jpg",
+    "alt": "Enzo"
+  },
+  {
+    "name": "Randal Kolo Muani",
+    "photo": "IMAGES/Kolo Muani.jpg",
+    "alt": "Kolo Muani"
+  },
+  {
+    "name": "Christopher Nkunku",
+    "photo": "IMAGES/Nkunku.jpg",
+    "alt": "Nkunku"
+  },
+  {
+    "name": "Marcus Rashford",
+    "photo": "IMAGES/Rashford.jpg",
+    "alt": "Rashford"
+  },
+  {
+    "name": "Ruben Dias",
+    "photo": "IMAGES/Ruben Dias.jpg",
+    "alt": "Ruben Dias"
+  },
+  {
+    "name": "Bernardo Sliva",
+    "photo": "IMAGES/Bernardo.jpg",
+    "alt": "Bernardo"
+  },
+  {
+    "name": "Moises Caicedo",
+    "photo": "IMAGES/Caicedo.jpg",
+    "alt": "Caicedo"
+  },
+  {
+    "name": "Luiz Diaz",
+    "photo": "IMAGES/Luis Diaz.jpg",
+    "alt": "Luiz Diaz"
+  },
+  {
+    "name": "Josko Gvardiol",
+    "photo": "IMAGES/Gvardiol.jpg",
+    "alt": "Gvardiol"
+  },
+  {
+    "name": "Gabriel Jesus",
+    "photo": "IMAGES/Jesus.jpg",
+    "alt": "Jesus"
+  },
+  {
+    "name": "Frenkie De jong",
+    "photo": "IMAGES/De jong.jpg",
+    "alt": "De jong"
+  },
+  {
+    "name": "Matthijs De Ligt",
+    "photo": "IMAGES/De ligt.jpg",
+    "alt": "De ligt"
+  },
+  {
+    "name": "Nicolo Barella",
+    "photo": "IMAGES/Barella.jpg",
+    "alt": "Barella"
+  },
+  {
+    "name": "Bruno Fernandez",
+    "photo": "IMAGES/Fernandez.jpg",
+    "alt": "Fernandez"
+  },
+  {
+    "name": "Jack Grealish",
+    "photo": "IMAGES/Grealish.jpg",
+    "alt": "Grealish"
+  },
+  {
+    "name": "Joshua Kimmich",
+    "photo": "IMAGES/Kimmich.jpg",
+    "alt": "Kimmich"
+  },
+  {
+    "name": "Bruno Guimaraes",
+    "photo": "IMAGES/Guimaraes.jpg",
+    "alt": "Guimaraes"
+  },
+  {
+    "name": "Ronald Araujo",
+    "photo": "IMAGES/Araujo.jpg",
+    "alt": "Araujo"
+  },
+  {
+    "name": "Alphonso Davies",
+    "photo": "IMAGES/Davies.jpg",
+    "alt": "Davies"
+  },
+  {
+    "name": "Eder Militao",
+    "photo": "IMAGES/militao.jpg",
+    "alt": "Militao"
+  },
+  {
+    "name": "Dusan Vlahovic",
+    "photo": "IMAGES/Vlahovic.jpg",
+    "alt": "Vlahovic"
+  },
+  {
+    "name": "Alexander Isak",
+    "photo": "IMAGES/Isak.jpg",
+    "alt": "Isak"
+  },
+  {
+    "name": "kelvin De Bruyne",
+    "photo": "IMAGES/De Bruyne.jpg",
+    "alt": "De Bruyne"
+  },
+  {
+    "name": "Nuno Mendes",
+    "photo": "IMAGES/Mendes.jpg",
+    "alt": "Mendes"
+  },
+  {
+    "name": "Darwin Nunez",
+    "photo": "IMAGES/Nunez.jpg",
+    "alt": "Nunez"
+  },
+  {
+    "name": "Alexis Mac Allister",
+    "photo": "IMAGES/Mac Allister.jpg",
+    "alt": "Mac Allister"
+  },
+  {
+    "name": "William Saliba",
+    "photo": "IMAGES/Saliba.jpg",
+    "alt": "Saliba"
+  }
+]
